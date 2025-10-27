@@ -1,0 +1,46 @@
+​​idiomatic 惯用的
+​​explicit​​ 明确的，显式的
+overloaded​​ 重载的，多用途的
+exception 异常
+separate 单独的
+via 
+conversion 类型转换/惯例
+sentinel 哨兵（检测标识值）
+implement 实施/实现
+variant 变体
+Argument Error 参数错误​
+suffix 后缀
+Synchronously 同步地
+Asynchronously 异步地
+Invoke 调用
+​​Invocation 调用/执行
+Concurrently 并发地​
+Robust 健壮的
+Interleaved 交错
+External 外部的
+Bound 限制
+Iteration 迭代
+​​Interval间隔
+launch 启动
+increment 增长
+warp 封装
+closure 闭包
+​​Notified 通知
+​​Propagate errors 传播错误
+mechanism 机制
+burst 突发
+​​Remaining 剩余的
+issue
+​​Mutexes 互斥锁
+​​Synchronize 使同步
+guarantee 确保
+compile 编译
+export 导出
+field 字段 
+intermediates 中间体
+scheme 协议
+query fragment 片段标识符
+coerce 强制类型转化
+directive 指令
+wildcard 通配符
+​​Spawn 启动进程
